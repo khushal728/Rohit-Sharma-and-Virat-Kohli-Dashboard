@@ -11,6 +11,16 @@ This dashboard is my small way of saying *thank you*.
 
 > *"In dono ke bina cricket match hona mujhe to impossible lagta hai."*
 
+## 📸 Screenshots
+
+### 🏏 Dashboard Overview
+![Rohit Sharma Stats](screenshots/dashboard-overview.png)
+
+### 📊 Career Stats Comparison
+![Virat Kohli Stats](screenshots/career-stats.png)
+
+
+
 ## 🎥 Demo Video
 
 ➡️ [Watch the Dashboard Tribute Video](https://github.com/user-attachments/assets/3135003d-552f-4689-a8b2-e076eec30103)
