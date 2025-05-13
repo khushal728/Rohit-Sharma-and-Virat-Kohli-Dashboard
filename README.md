@@ -13,7 +13,7 @@ This dashboard is my small way of saying *thank you*.
 
 ## 🎥 Demo Video
 
-➡️ [Watch the Dashboard Tribute Video](./RoKo.mp4)
+➡️ [Watch the Dashboard Tribute Video](https://github.com/user-attachments/assets/3135003d-552f-4689-a8b2-e076eec30103)
 
 ## 📊 Dashboard Features
 
