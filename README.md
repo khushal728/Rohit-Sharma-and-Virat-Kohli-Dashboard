@@ -64,7 +64,7 @@ Every chart and every number in this dashboard is backed with a thousand memorie
 
 Feel free to reach out if you’re a cricket fan, data geek, or just want to share your favorite Ro-Ko memory!
 
-- 📧 Email: yourname@example.com  
+- 📧 Email: khushalj2003@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/khushal-joshi728/)
 
 
