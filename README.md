@@ -17,7 +17,7 @@ This dashboard is my small way of saying *thank you*.
 ![Rohit Sharma Stats](https://github.com/khushal728/Rohit-Sharma-and-Virat-Kohli-Dashboard/blob/main/Rohit%20Sharma%20stats%20Page.png)
 
 ### 📊 Career Stats Comparison
-![Virat Kohli Stats](screenshots/career-stats.png)
+![Virat Kohli Stats](https://github.com/khushal728/Rohit-Sharma-and-Virat-Kohli-Dashboard/blob/main/Virat%20Kohli%20stats%20Page.png)
 
 
 
